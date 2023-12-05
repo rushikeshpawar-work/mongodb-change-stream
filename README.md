@@ -1,5 +1,5 @@
 # mongodb-change-stream
-One-way data synchronization between Azure SQL and MongoDB. Any modifications made to the mongordb database will instantly synchronize with Azure SQL.
+One-way data synchronization between Azure SQL and MongoDB. Any modifications made to the mongodb database will instantly synchronize with Azure SQL.
 -------------------------------------------------------------------------------------------------------------------------------
 Prerequisites:
 •	MongoDB on Atlas
